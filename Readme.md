@@ -24,8 +24,8 @@ The screenshot of the website can be seen in the screenshot.png file.
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/alwaysayushagarwal/Weather-Application
+- Live Site URL: https://yourweathertracker.netlify.app/
 
 ### Built with
 
