@@ -24,8 +24,8 @@ The screenshot of the website can be seen in the screenshot.png file.
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL:
+- Live Site URL:
 
 ### Built with
 
