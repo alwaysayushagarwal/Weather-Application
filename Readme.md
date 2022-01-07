@@ -7,7 +7,7 @@
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Overview
 
@@ -38,6 +38,3 @@ The screenshot of the website can be seen in the screenshot.png file.
 
 - Frontend Mentor - @alwaysayushagarwal
 - Github - https://github.com/alwaysayushagarwal/
-
-## Acknowledgments
-Thanks to Frontend Mentor to give this amazing project
